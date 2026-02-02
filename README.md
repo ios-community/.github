@@ -48,8 +48,6 @@ Membangun library kompresi video atau pengolahan data sensor secara *real-time* 
 * **Low-Level Optimization:** \
 Optimalisasi algoritma dengan instruksi CPU tunggal untuk banyak data ($SIMD$).
 
----
-
 ## Bagaimana Cara Berkontribusi?
 Kami tidak peduli kamu angkatan berapa atau dari prodi apa. Selama kamu mahasiswa ITERA yang peduli dengan kualitas *software* kampus, kamu diterima di sini.
 
