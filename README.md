@@ -50,12 +50,12 @@ Optimalisasi algoritma dengan instruksi CPU tunggal untuk banyak data ($SIMD$).
 
 ---
 
-## 🛠 Bagaimana Cara Berkontribusi?
+## Bagaimana Cara Berkontribusi?
 Kami tidak peduli kamu angkatan berapa atau dari prodi apa. Selama kamu mahasiswa ITERA yang peduli dengan kualitas *software* kampus, kamu diterima di sini.
 
 1.  **Cari Issue:** Lihat label `good first issue` di setiap repository.
 2.  **Fork & Pull Request:** Kirimkan perbaikan atau fitur barumu.
 3.  **Dokumentasi:** Bantu kami menulis dokumentasi yang manusiawi agar mudah dipelajari mahasiswa lain.
 
-## ⚠️ Disclaimer
+## Disclaimer
 Proyek di bawah naungan **ITERA Open Source** adalah inisiatif independen mahasiswa dan **tidak berafiliasi secara resmi** dengan institusi Institut Teknologi Sumatera. Kami bergerak atas dasar kebebasan akademik dan semangat untuk belajar melalui implementasi nyata, bukan hanya teori omong kosong belaka.
